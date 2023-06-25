@@ -1,6 +1,6 @@
 #!/bin/bash/
 
-#Simple Password Generator
+#Password Generator - This script prompts the user to enter a password length, and then generates and displays five random passwords of that specified length using the OpenSSL command-line tool.
 
 echo "This is a Password Generator. Enter your password length" 
 
